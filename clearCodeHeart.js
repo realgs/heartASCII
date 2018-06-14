@@ -1,3 +1,7 @@
+if (process.argv.length <= 5) {
+    console.log("Usage: " + __filename + " too few input parameters.");
+    process.exit(-1);
+}
 var width = process.argv[2];
 var topH = process.argv[3];
 var midH = process.argv[4];
