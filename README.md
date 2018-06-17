@@ -1,1 +1,1 @@
-# CleanCode assignment. The project prints out hearts of different sizes.
+# Recruitment task. The project prints out hearts of different sizes.
